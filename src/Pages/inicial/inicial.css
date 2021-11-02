@@ -1,0 +1,39 @@
+.center{
+    margin-top: 15em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centralizar{
+    margin-top: 0.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jogo_da_velha{
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sem-margem{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.box_size{
+    border: none;
+}
+
+.box_size button{
+    width: 100px;
+    height: 100px;
+    border: none;
+    margin-top: 3px;
+    border-radius: 5px;
+    font-size: 50px;
+    box-shadow: 5px ;
+}
